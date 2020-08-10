@@ -4,7 +4,7 @@ Here I created a cloak which can turn you Invisible.
 
 It uses a masking technique.
 
-It includes 4 steps:- 
+It includes 3 steps:- 
 
     1)  Storing a background image in a variable
     
